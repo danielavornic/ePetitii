@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/danielavornic/ePetitii-front
+[submodule "server"]
+	path = server
+	url = https://github.com/qopas/ePetitii-backend
